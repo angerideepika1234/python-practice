@@ -1,0 +1,9 @@
+101,deepika,java,2000
+101,Deepika,Java,50000
+102,Ananya,Python,60000
+103,Anjali,C++,70000
+104,Anushka,JavaScript,80000
+101,Deepika,Java,50000
+102,Ananya,Python,60000
+103,Anjali,C++,70000
+104,Anushka,JavaScript,80000
